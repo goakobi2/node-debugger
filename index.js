@@ -11,7 +11,7 @@ items.foreach((item) => {
 
     else 
     {
-        result.push(parseInt(item))
+        results.push(parseInt(item))
     }
 });
 
